@@ -6,3 +6,5 @@ FPGA-Based Deep Learning engine for hybrid Automatic Driver Assistance System
 - RPi Model : 3B+
 - Cam : Custom
 - Mobile app : Android Native (Kotlin)
+
+- Mobile App include Lane detection and driver behavior detection
